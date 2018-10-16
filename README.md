@@ -9,4 +9,4 @@ git clone https://github.com/visaruthuhu/Nodejs-Express-jwt.git NodeJS-jwt
 		<br>
  #yarn install
 		<br>
- #yarn #dev
+ #yarn dev
