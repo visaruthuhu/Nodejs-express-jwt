@@ -7,7 +7,7 @@
     "mysql2": "^1.6.1",
     "node-env-file": "^0.1.8",
     "nodemon": "^2.0.3",
-    "sequelize": "^4.39.0"
+    "sequelize": "^5.15.1"
   },
   "scripts": {
     "dev": "nodemon src  "
